@@ -1,6 +1,6 @@
 const AllInNFTArtifact = {
   address: {
-    4: '0xA6CD94b81708d4f0c9CfCDe7F76107fbdB30C18D'
+    5: '0x7eFC2Bf4EE9a7378338200bFA814177fD987C6c8'
   },
   abi: [
     {
@@ -732,4 +732,4 @@ const AllInNFTArtifact = {
   ]
 }
 
-export default AllInNFTArtifact;
+export default AllInNFTArtifact;  
